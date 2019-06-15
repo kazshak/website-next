@@ -1,0 +1,27 @@
+{
+  "name": "website-next",
+  "version": "1.0.0",
+  "description": "first attempt at using next.js to create a site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazshak/website-next.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazshak/website-next/issues"
+  },
+  "homepage": "https://github.com/kazshak/website-next#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
