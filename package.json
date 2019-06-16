@@ -20,8 +20,13 @@
   },
   "homepage": "https://github.com/kazshak/website-next#readme",
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
     "next": "^8.1.0",
+    "next-images": "^1.1.2",
+    "popper.js": "^1.15.0",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "xmlhttprequest": "^1.8.0"
   }
 }
